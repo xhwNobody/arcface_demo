@@ -1,0 +1,1 @@
+Postion of pre-trained model of Arc-Face.
